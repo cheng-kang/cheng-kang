@@ -8,18 +8,18 @@
 💬 Here are my favorite logos:
   
 <p>
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/typescript.svg" width="20" height="20" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/javascript.svg" width="20" height="20" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/react_ts.svg" width="20" height="20" />
-  <img src="https://redux.js.org/img/redux.svg" width="20" height="20" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/vue.svg" width="20" height="20" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/graphql.svg" width="20" height="20" />
-  <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg" width="20" height="20" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/swift.svg" width="20" height="20" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/vscode.svg" width="20" height="20" />
-  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="20" height="20" />
-  <img src="https://material-ui.com/static/logo_raw.svg" width="20" height="20" />
-  <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" width="20" height="20" />
-  <img src="https://image.flaticon.com/icons/svg/2111/2111432.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/typescript.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/javascript.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/react_ts.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/redux.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/vue.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/graphql.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/firebase.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/swift.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/vscode.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/ant-design.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/material-ui.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/stackoverflow.svg" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/cheng-kang/cheng-kang/master/assets/github.svg" width="20" height="20" />
 </p>
 
