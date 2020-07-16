@@ -8,6 +8,7 @@
 💬 Here are my favorite logos:
   
 <p>
+  💬 
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/typescript.svg" width="20" height="20" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/javascript.svg" width="20" height="20" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/react_ts.svg" width="20" height="20" />
