@@ -1,11 +1,11 @@
 <h1>About me - 程康<sup><a href="https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=en&text=%E7%A8%8B%E5%BA%B7" alt="How to pronounce 程康">[1]</a></sup></h1>
 
-👋🏻 Hello. <br/>🆔 My first name is Kang and surname is Cheng.
+👋🏻&nbsp;Hello. <br/>💬 My first name is Kang and surname is Cheng.
 
 🇨🇳 Chinese <br/>🇬🇧 Live and work in London <br/>🇺🇸 Regular visitor
 
 
-💙 Here are my favorite logos:
+💬 Here are my favorite logos:
   
 <p>
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/typescript.svg" width="20" height="20" />
