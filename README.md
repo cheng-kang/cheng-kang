@@ -2,7 +2,7 @@
 
 👋🏻 Hello. <br/>💬 My first name is Kang and surname is Cheng.
 
-🇨🇳 Chinese <br/>🇬🇧 Live in London <br/>🇺🇸 Regular visitor
+🇨🇳 Chinese <br/>🇬🇧 Live and work in London <br/>🇺🇸 Regular visitor
 
 
 💬 Here are my favorite logos:
