@@ -2,7 +2,7 @@
 
 🇨🇳 Chinese <br/>🇬🇧 Live in London <br/>🇺🇸 Regular visitor
 
-*Favorite logos*
+<strong>Favorite logos</strong>
 
 <p>
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/typescript.svg" width="20" height="20" />
