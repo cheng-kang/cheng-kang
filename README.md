@@ -1,6 +1,6 @@
-<h1 align="right">About me - 程康<sup><a href="https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=en&text=%E7%A8%8B%E5%BA%B7">[1]</a></sup></h1>
+<h1>About me - 程康<sup><a href="https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=en&text=%E7%A8%8B%E5%BA%B7">[1]</a></sup></h1>
 
-<p align="right">🇨🇳 Chinese <br/>🇬🇧 Live in London <br/>🇺🇸 Regular visitor</p>
+🇨🇳 Chinese <br/>🇬🇧 Live in London <br/>🇺🇸 Regular visitor
 
 **Favorite logos**
 
