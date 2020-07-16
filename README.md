@@ -17,6 +17,6 @@
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="20" height="20" />
   <img src="https://material-ui.com/static/logo_raw.svg" width="20" height="20" />
   <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" width="20" height="20" />
-  <img src="" width="20" height="20" />
+  <img src="https://image.flaticon.com/icons/svg/2111/2111432.svg" width="20" height="20" />
 </p>
 
