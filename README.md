@@ -1,10 +1,8 @@
 # About me - 程康<sup>[[1]](https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=en&text=%E7%A8%8B%E5%BA%B7)</sup>
 
-## Background
-
 🇨🇳 Chinese <br/>🇬🇧 Live in London <br/>🇺🇸 Regular visitor
 
-## Favorite logos
+### Favorite logos
 
 <p>
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/typescript.svg" width="20" height="20" />
