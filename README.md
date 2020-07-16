@@ -2,5 +2,4 @@
 
 - 🇨🇳 Chinese
 - 🇬🇧 Live in London
-
 - 🇺🇸 Regular visitor
