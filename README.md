@@ -1,6 +1,6 @@
 <h1>About me - 程康<sup><a href="https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=en&text=%E7%A8%8B%E5%BA%B7" alt="How to pronounce 程康">[1]</a></sup></h1>
 
-👋🏻&nbsp;&nbsp;Hello! <br/>💬 My given name is Kang and surname is Cheng.
+👋🏻&nbsp;Hello! <br/>💬 My given name is Kang and surname is Cheng.
 
 🇨🇳 Chinese <br/>🇬🇧 Live and work in London <br/>🇺🇸 Regular visitor <br/>🇯🇵 JLPT N4...
 
