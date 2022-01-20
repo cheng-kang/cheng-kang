@@ -2,7 +2,7 @@
 
 👋🏻&nbsp;Hello! <br/>💬 My given name is Kang and surname is Cheng.
 
-🇨🇳 Chinese <br/>🇬🇧 Live and work in London <br/>🇺🇸 Regular visitor <br/>🇯🇵 JLPT N4...
+🇨🇳 Chinese <br/>🇺🇸 Live and work in CA <br/>🇬🇧 Lived and worked in London <br/>🇯🇵 JLPT N4...
 
 
 💬 Here are my favorite logos:
